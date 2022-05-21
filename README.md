@@ -1,6 +1,6 @@
 # IBM-DevOps-and-Software-Engineering-Certificate
 
-Repo with my course work for the IBM DevOps and Software Engineering Professional Certification offered on Coursera.
+Repo with my coursework for the IBM DevOps and Software Engineering Professional Certification offered on Coursera.
 
 The courses in this program helped me develop skill sets in a variety of DevOps philosophies and methodologies including Agile Development, Scrum Methodology, Cloud Native Architecture, Behavior and Test-Driven Development, and Zero Downtime Deployments.
 
